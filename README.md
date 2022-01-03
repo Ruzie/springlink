@@ -22,6 +22,7 @@ $ git clone https://github.com/knyaoo/springlink.git
 - Configure [application.yaml](https://github.com/freyacodes/Lavalink/blob/master/LavalinkServer/application.yml.example) by your choices.
 - Docker image of lavalink [here](https://hub.docker.com/r/fredboat/lavalink/)
 - Check out example bot
+- Documentation (coming soon)
 
 # Others 💝
 - [Support](https://discord.gg/j9vEHX9Tax)
