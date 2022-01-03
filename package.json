@@ -1,0 +1,21 @@
+{
+  "name": "springlink",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "knyaoo",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3"
+  },
+  "dependencies": {
+    "@discordjs/collection": "^0.4.0",
+    "node-fetch": "^2.6.6",
+    "ws": "^8.4.0"
+  }
+}
