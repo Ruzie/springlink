@@ -608,8 +608,7 @@ class SpringPlayer extends EventEmitter {
                     if (["REPLACED", "FINISHED", "STOPPED"].includes(data.reason)) {
                         this.manager.emit("queueEnd", this);
                     }
-                } else if (this.queue.length > 0) {
-                    this.queue.shift();
+                } else if (this.queue.length > 1) {
                     /**
                      * Fire up when a track was ended
                      * @event trackEnd
