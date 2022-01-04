@@ -8,6 +8,7 @@ A lightweight, fast and stable lavalink wrapper for Node.js
 - [x] Lightweight
 
 # Installation 🍮
+(Stable version)
 ```
 $ npm install --save springlink
 ```
